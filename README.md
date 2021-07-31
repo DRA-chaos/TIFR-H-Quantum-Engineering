@@ -1,4 +1,4 @@
-# TIFR-VSRP-
+This remote study was carried out under the guidance of Dr Karthik V Raman, TIFR Hyderabad.
 
 This [file](https://github.com/DRA-chaos/TIFR-VSRP-QPU-Qubit-analysis/blob/main/Comparing%20Performances%20of%203%20QPUs.ipynb)  involves the use of Randomized Benchmarking to compare the performance and gate fidelity of three QPUS namely IBMQ Athens, Belem and Santiago which have superconducting architectures.
 
