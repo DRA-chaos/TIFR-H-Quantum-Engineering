@@ -9,7 +9,7 @@ This [file](https://github.com/DRA-chaos/TIFR-VSRP-QPU-Qubit-analysis/blob/main/
 
 ![image](https://user-images.githubusercontent.com/68393451/119295163-c35f5d80-bc73-11eb-9188-67572d01fe21.png)
 
-This file[https://github.com/DRA-chaos/TIFR-VSRP-QPU-Qubit-analysis/blob/main/Qutip%20to%20compare%20transmon%20and%20QHO.ipynb] encompasses a short code made using QuTip to compare the energy levels of the Transmon with the Quantum Harmonic Osicalltor.
+This [file](https://github.com/DRA-chaos/TIFR-VSRP-QPU-Qubit-analysis/blob/main/Qutip%20to%20compare%20transmon%20and%20QHO.ipynb) encompasses a short code made using QuTip to compare the energy levels of the Transmon with the Quantum Harmonic Osicalltor.
 
 ![image](https://user-images.githubusercontent.com/68393451/127741006-2de71aef-e47c-474f-8dd8-b787ce38d5a7.png)
 
